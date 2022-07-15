@@ -18,7 +18,7 @@ public class Main {
 
         //String patch1 = "src/main/resources/myBase.txt";
         // patch1 - link to your txt file
-        // patch1 - Это сылка на ваш те txt файл
+        // patch1 - Это сылка на ваш те txt фай
         // patch1 - Це посилання на ваш txt файл
         //workMailEndPassword(patch1);
 
